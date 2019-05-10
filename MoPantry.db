@@ -1,0 +1,12 @@
+Select * from media_table;
+
+
+CREATE TABLE MoPantry(package VARCHAR(25), perishable VARCHAR(25), Name_Of_Product VARCHAR(30), Location VARCHAR);
+
+select * from MoPantry;
+
+INSERT INTO mopantry VALUES ('Cookies', 'Pizza', 'Bronx, NY'); 
+INSERT INTO mopantry VALUES ('Potato Chips', 'Sushi', 'Brooklyn, NY'); 
+INSERT INTO mopantry VALUES ('Milk', 'Sandwiches', 'Staten Island, NY'); 
+INSERT INTO mopantry VALUES ('Cereal', 'Fruits', 'Tobyhanna, PA'); 
+INSERT INTO mopantry VALUES ('Frozen Fries', 'Eggs', 'Brooklyn, NY'); 
