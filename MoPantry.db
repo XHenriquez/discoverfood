@@ -1,6 +1,3 @@
-Select * from media_table;
-
-
 CREATE TABLE MoPantry(package VARCHAR(25), perishable VARCHAR(25), Name_Of_Product VARCHAR(30), Location VARCHAR);
 
 select * from MoPantry;
