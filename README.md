@@ -1,3 +1,4 @@
 # Mo' Pantry
-# teachCreateHer project 
+# Created by: Xiomara, Alina, Anna, Claudine
+# teachCreateHer Hackathon
 # Lehman May 2019
